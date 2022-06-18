@@ -1,4 +1,4 @@
-//3. Faça um programa que leia 10 valores informados pelo usuário, calcule, exiba os números informados e escreva a média aritmética desses valores lidos.
+//6. Faça um programa que leia 10 valores informados pelo usuário, calcule, exiba os números informados e escreva a média aritmética desses valores lidos.
 import java.util.Scanner;
 import java.util.Arrays;
 
