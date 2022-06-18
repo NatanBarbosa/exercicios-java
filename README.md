@@ -13,3 +13,5 @@ Esses dois primeiros repositórios são focados na lógica da programação e na
 
 ### foguete-nao-da-re
 Noções de orientação à objetos do Java. Crição do meu primeiro objeto em java, com atributos e métodos.
+
+A proposta da atividade e todos os enunciados do exercícios foram propostos pelo professor Gabriel do instituto PROA
